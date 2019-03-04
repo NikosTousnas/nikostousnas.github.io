@@ -1,0 +1,14 @@
+$(document).ready(function(){
+    $(".aboutbtn1").click(function(){
+      $(".text1").show();
+    });
+    $(".aboutbtn2").click(function(){
+        $(".text2").show();
+      });
+      $(".aboutbtn3").click(function(){
+        $(".text3").show();
+      });
+      $(".aboutbtn4").click(function(){
+        $(".text4").show();
+      });
+  });
